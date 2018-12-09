@@ -1,8 +1,8 @@
-#Weak RSA
+# Weak RSA
 
-Challenge:  Decrypt the flag.enc file with the public key.
+**Challenge:**  Decrypt the flag.enc file with the public key.
 
-Code:  https://github.com/Ganapati/RsaCtfTool
+**Code:**  [RSA CTF Tool](https://github.com/Ganapati/RsaCtfTool)
 
-Clone the RsaCtfTool from GitHub.  
-Cmd: ./RsaCtfTool.py --publickey ./key.pub --uncipherfile ./flag.enc
+1. Clone the RsaCtfTool from GitHub.  
+2. Cmd: `./RsaCtfTool.py --publickey ./key.pub --uncipherfile ./flag.enc`
